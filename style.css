@@ -247,5 +247,8 @@ text-decoration: underline;
     .contact{
         margin: 0px;
     }
+    .news input{
+        width: 350px;
+    }
 
 }
